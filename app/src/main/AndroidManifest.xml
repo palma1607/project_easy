@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ProjetoPsicoTinder">
         <activity
-            android:name=".Cadastro"
+            android:name=".PatientRegister"
             android:exported="true" />
         <activity
             android:name=".MainActivity"
