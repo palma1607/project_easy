@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1068686246630",
+    "firebase_url": "https://psicotinder-chat-default-rtdb.firebaseio.com",
+    "project_id": "psicotinder-chat",
+    "storage_bucket": "psicotinder-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068686246630:android:bbcc31675bbce48e9db127",
+        "android_client_info": {
+          "package_name": "com.example.chat_psicotinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068686246630-5ss85904ic5ncur1858l2gdnj5jqr1ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOdAb-FP2jwKAVwiQCDROKr-w4Dr_eO3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068686246630-5ss85904ic5ncur1858l2gdnj5jqr1ee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
