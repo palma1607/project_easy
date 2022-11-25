@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "876868572126",
+    "project_id": "psycosup-4cc32",
+    "storage_bucket": "psycosup-4cc32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876868572126:android:812fe48dc8a4f3fec0c34f",
+        "android_client_info": {
+          "package_name": "br.com.up.projetopsicotinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876868572126-dt2f5ucfn5ei8id6000pl9nv266uag5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBceuu2DYPmFlj20Nfr_l8R8yJadznX3AA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876868572126-dt2f5ucfn5ei8id6000pl9nv266uag5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
